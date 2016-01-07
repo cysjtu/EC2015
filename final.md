@@ -158,11 +158,11 @@ AR是一种将真实世界信息和虚拟世界信息“无缝”集成的新技
 
 参考文献：
 
+[虚拟现实](https://zh.wikipedia.org/wiki/%E8%99%9A%E6%8B%9F%E7%8E%B0%E5%AE%9E)
+[增强现实](https://zh.wikipedia.org/zh-cn/%E6%93%B4%E5%A2%9E%E5%AF%A6%E5%A2%83)
+[虚拟试衣，噱头还是电商行业的下一个转折点](http://www.cyzone.cn/a/20150518/275031.html)
 [淘宝计划推 “360°虚拟试衣” 功能](http://36kr.com/p/531252.html)
 
-[虚拟现实](https://zh.wikipedia.org/wiki/%E8%99%9A%E6%8B%9F%E7%8E%B0%E5%AE%9E)
-
-[虚拟试衣，噱头还是电商行业的下一个转折点](http://www.cyzone.cn/a/20150518/275031.html)
 
 
 
